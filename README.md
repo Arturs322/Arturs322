@@ -3,7 +3,7 @@
 - 🔭 Love to code!
 - 🌱 Love problem solving!
 - 💬 Love learning!
-- 📫 How to reach me: Linkedin -[Artūrs Krusts](https://www.linkedin.com/in/art%C5%ABrs-krusts-178827226/)
+- 📫 How to reach me: Linkedin -[Artūrs Krusts](https://www.linkedin.com/in/arturs-krusts/)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/phpstorm.svg" alt="PhpStorm Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/>
 
